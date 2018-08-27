@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "AttractionItemsItemsViewController.collectionView(_:didSelectItemAt:):AttractionItemsItemsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "a">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AttractionItemsItemsViewController.prepare(for:sender:):AttractionItemsItemsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "&#xa7;&#xa7;">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
